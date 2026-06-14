@@ -47,12 +47,6 @@ StudentGradeTracker
 
 ├── Menu.java
 
-├── data/
-
-│ └── students.txt
-
-├── screenshots/
-
 └── README.md
 
 ---
